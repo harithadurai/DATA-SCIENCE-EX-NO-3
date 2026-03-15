@@ -48,8 +48,7 @@ import numpy as np
 
 from scipy import stats
 
-df=pd.read_csv("data.csv")
-
+df=pd.read_csv("D:Data.csv")
 
 <img width="579" height="429" alt="image" src="https://github.com/user-attachments/assets/1016be3d-cbca-479d-8fdb-bddabfc7bc9c" />
 
